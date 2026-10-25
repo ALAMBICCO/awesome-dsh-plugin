@@ -1,0 +1,7 @@
+url: https://github.com/ALAMBICCO/dsh-computer-use-en
+name: dsh-computer-use-en
+category: tools
+tarball: https://github.com/ALAMBICCO/dsh-computer-use-en/releases/download/v0.8.1/dsh-computer-use-en-0.8.1.tgz
+description:
+  en: 'English port of Windows Computer Use for DeepSeek Harness: 10 desktop tools (computer, computer_batch, open_application, windows, ui_elements, clipboard, switch_display, app_skill, request_access, list_granted_applications) with UI Automation, per-app access control, English settings UI and mini progress card overlay, Esc pause/resume, and DSH 0.2.1 unpacked koffi.node auto-discovery. Fork of copylee711/dsh-computer-use.'
+  zh: 'Windows ç”µè„‘æŽ§åˆ¶æ’ä»¶ï¼ˆè‹±æ–‡ç‰ˆï¼‰ï¼šæä¾› 10 ä¸ªæ¡Œé¢æŽ§åˆ¶å·¥å…·ï¼ˆæˆªå›¾ã€é¼ æ ‡ã€é”®ç›˜ã€UIA ç•Œé¢å…ƒç´ è¯»å–ã€å‰ªè´´æ¿ã€çª—å£ç®¡ç†ã€åº”ç”¨æŠ€èƒ½ä¸ŽæŒ‰åº”ç”¨æŽˆæƒï¼‰ï¼Œå…¨è‹±æ–‡è®¾ç½®é¢æ¿ä¸Žå³ä¸‹è§’è¿·ä½ è¿›åº¦å¡ç‰‡æµ®å±‚ï¼Œæ”¯æŒæŒ‰ Esc æš‚åœæˆ–ç»§ç»­ï¼Œå¹¶é€‚é… DSH 0.2.1 çš„ koffi.node è‡ªåŠ¨å‘çŽ°ã€‚Fork è‡ª copylee711/dsh-computer-useã€‚'
